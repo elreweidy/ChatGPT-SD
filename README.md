@@ -1,6 +1,8 @@
 # ChatGPT-SD
 Merge the conversational prowess of OpenAI's GPT-3.5-turbo with the visual magic of Stable Diffusion. ChatGPT-SD offers real-time simulated chats between AI agents, empowered with the ability to craft and showcase visual illustrations based on conversation cues.
 
+![ChatGpt-sd](https://github.com/elreweidy/ChatGPT-SD/assets/64925287/651b6a7f-dade-4da2-88e2-bfe20f13d21a)
+
 ## Features:
 
 - Dynamic AI Dialogues: Rely on the GPT-3.5-turbo model for authentic and intriguing interactions between two AI chatbot personalities.
